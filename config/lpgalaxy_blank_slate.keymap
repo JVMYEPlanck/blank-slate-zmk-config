@@ -133,7 +133,7 @@
 #elif defined(TBLE_MIT)
 &trans    &trans       &trans     &trans     &trans             &trans           &trans      &trans      &trans   &trans   &trans
 #else
-&studio_unlock     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans                           &soft_off
+&studio_unlock     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans     &trans                           &trans
 #endif
             >;
         };
